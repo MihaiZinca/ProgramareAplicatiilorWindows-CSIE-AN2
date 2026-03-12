@@ -1,0 +1,10 @@
+C:\Facultate\An2_Sem2\PAW\Curs4\Curs4\bin\Debug\Curs4.exe.config
+C:\Facultate\An2_Sem2\PAW\Curs4\Curs4\bin\Debug\Curs4.exe
+C:\Facultate\An2_Sem2\PAW\Curs4\Curs4\bin\Debug\Curs4.pdb
+C:\Facultate\An2_Sem2\PAW\Curs4\Curs4\obj\Debug\Curs4.csproj.AssemblyReference.cache
+C:\Facultate\An2_Sem2\PAW\Curs4\Curs4\obj\Debug\Curs4.Form1.resources
+C:\Facultate\An2_Sem2\PAW\Curs4\Curs4\obj\Debug\Curs4.Properties.Resources.resources
+C:\Facultate\An2_Sem2\PAW\Curs4\Curs4\obj\Debug\Curs4.csproj.GenerateResource.cache
+C:\Facultate\An2_Sem2\PAW\Curs4\Curs4\obj\Debug\Curs4.csproj.CoreCompileInputs.cache
+C:\Facultate\An2_Sem2\PAW\Curs4\Curs4\obj\Debug\Curs4.exe
+C:\Facultate\An2_Sem2\PAW\Curs4\Curs4\obj\Debug\Curs4.pdb
