@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//in c# putem tipul de acces pt fiecare atribut, default e private
+//in c# punem tipul de acces pt fiecare atribut, default e private
 
 namespace ConsoleApp1 {
     internal class Persoana:CalculeazaAnNastere {

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace ConsoleApp1 {
@@ -49,7 +50,7 @@ namespace ConsoleApp1 {
              
      
             foreach(string p in persoaneCuOchelari)
-                Console.WriteLine(p); 
+                Console.WriteLine(p);
 
 
             //Tema 
@@ -57,8 +58,28 @@ namespace ConsoleApp1 {
             //clone 
             //compareTo
             //formaFinantare
-            //supraincarcari
+            //supraincarc
 
+            //instantiere
+            Student s1 = new Student("Andrei", 21, true, 9.2);
+            s1 += "Matematica";
+            s1 += "Informatica";
+
+            Student s2 = (Student)s1.Clone();
+            s2.Nume = "Andrei Clone";
+            s2[0] = "Fizica";
+            Console.WriteLine("Student1: " + s1);
+            Console.WriteLine("Student2(clona): " + s2);
+
+            int comp = s1.CompareTo(s2);
+            if (comp == 0) Console.WriteLine("Studentiii au aceeasi varsta");
+            else if (comp > 0) Console.WriteLine("Stud 1 este mai mare");
+            else Console.WriteLine("Stud 2 este mai mare");
+
+            Console.WriteLine($"{s1.Nume} este la: {s1.AflaFormaFinantare()}");
+
+            Student s3 = new Student("", 20, false, 7);
+            if (!s3) Console.WriteLine("Stud s3 nu are nume");
         }
     }
 }

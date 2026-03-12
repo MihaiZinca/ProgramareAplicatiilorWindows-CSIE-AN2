@@ -31,6 +31,9 @@ namespace ConsoleApp1 {
         public object Clone() { //object obiectu defeault din c#, este al system.object, acest object e mama la toate clasele
 
             Student s = new Student(Nume, Varsta, AreOchelari, medie);
+            foreach (string m in materii)
+                s.materii.Add(m);
+
             return s; //returneaza un object - face boxing din student in object gen!  cand o folosim trebuie sa facem un unboxing 
         }
 
