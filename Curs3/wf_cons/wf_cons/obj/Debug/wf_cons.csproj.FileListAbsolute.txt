@@ -1,0 +1,7 @@
+F:\wf_cons\wf_cons\bin\Debug\wf_cons.exe.config
+F:\wf_cons\wf_cons\bin\Debug\wf_cons.exe
+F:\wf_cons\wf_cons\bin\Debug\wf_cons.pdb
+F:\wf_cons\wf_cons\obj\Debug\wf_cons.csproj.AssemblyReference.cache
+F:\wf_cons\wf_cons\obj\Debug\wf_cons.csproj.CoreCompileInputs.cache
+F:\wf_cons\wf_cons\obj\Debug\wf_cons.exe
+F:\wf_cons\wf_cons\obj\Debug\wf_cons.pdb
