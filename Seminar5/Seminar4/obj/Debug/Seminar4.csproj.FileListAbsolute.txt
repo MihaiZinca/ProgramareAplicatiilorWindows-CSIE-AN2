@@ -1,0 +1,10 @@
+C:\Facultate\An2_Sem2\PAW\Seminar4\Seminar4\bin\Debug\Seminar4.exe.config
+C:\Facultate\An2_Sem2\PAW\Seminar4\Seminar4\bin\Debug\Seminar4.exe
+C:\Facultate\An2_Sem2\PAW\Seminar4\Seminar4\bin\Debug\Seminar4.pdb
+C:\Facultate\An2_Sem2\PAW\Seminar4\Seminar4\obj\Debug\Seminar4.csproj.AssemblyReference.cache
+C:\Facultate\An2_Sem2\PAW\Seminar4\Seminar4\obj\Debug\Seminar4.Form1.resources
+C:\Facultate\An2_Sem2\PAW\Seminar4\Seminar4\obj\Debug\Seminar4.Properties.Resources.resources
+C:\Facultate\An2_Sem2\PAW\Seminar4\Seminar4\obj\Debug\Seminar4.csproj.GenerateResource.cache
+C:\Facultate\An2_Sem2\PAW\Seminar4\Seminar4\obj\Debug\Seminar4.csproj.CoreCompileInputs.cache
+C:\Facultate\An2_Sem2\PAW\Seminar4\Seminar4\obj\Debug\Seminar4.exe
+C:\Facultate\An2_Sem2\PAW\Seminar4\Seminar4\obj\Debug\Seminar4.pdb
