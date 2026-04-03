@@ -1,0 +1,1 @@
+<Firma xmlns="http://schemas.datacontract.org/2004/07/FirmaApp" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><ls><Salariat><Marca>11</Marca><Nr_ore>90</Nr_ore><Nume>vasi ionescu</Nume><Sal_ora>30</Sal_ora></Salariat><Salariat><Marca>300</Marca><Nr_ore>89</Nr_ore><Nume>Constantin Ela</Nume><Sal_ora>79</Sal_ora></Salariat></ls><numeFirma>ASE_SRL</numeFirma></Firma>
