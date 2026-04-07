@@ -1,0 +1,11 @@
+E:\Facultate\An2Sem2\PAW\lucru\s7\bin\Debug\s7.exe.config
+E:\Facultate\An2Sem2\PAW\lucru\s7\bin\Debug\s7.exe
+E:\Facultate\An2Sem2\PAW\lucru\s7\bin\Debug\s7.pdb
+E:\Facultate\An2Sem2\PAW\lucru\s7\obj\Debug\s7.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\lucru\s7\obj\Debug\s7.Form1.resources
+E:\Facultate\An2Sem2\PAW\lucru\s7\obj\Debug\s7.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\lucru\s7\obj\Debug\s7.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\lucru\s7\obj\Debug\s7.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\lucru\s7\obj\Debug\s7.exe
+E:\Facultate\An2Sem2\PAW\lucru\s7\obj\Debug\s7.pdb
+E:\Facultate\An2Sem2\PAW\lucru\s7\obj\Debug\s7.exe.config

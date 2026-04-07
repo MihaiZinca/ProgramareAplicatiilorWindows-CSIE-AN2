@@ -1,0 +1,4 @@
+ff|5|4|20
+aa|4|5|20
+s|3|33|99
+Valoare totala comanda: 139
