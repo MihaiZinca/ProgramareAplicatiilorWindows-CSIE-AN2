@@ -1,0 +1,14 @@
+E:\Facultate\An2Sem2\PAW\lucru\s1\bin\Debug\net8.0\s1.exe
+E:\Facultate\An2Sem2\PAW\lucru\s1\bin\Debug\net8.0\s1.deps.json
+E:\Facultate\An2Sem2\PAW\lucru\s1\bin\Debug\net8.0\s1.runtimeconfig.json
+E:\Facultate\An2Sem2\PAW\lucru\s1\bin\Debug\net8.0\s1.dll
+E:\Facultate\An2Sem2\PAW\lucru\s1\bin\Debug\net8.0\s1.pdb
+E:\Facultate\An2Sem2\PAW\lucru\s1\obj\Debug\net8.0\s1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\An2Sem2\PAW\lucru\s1\obj\Debug\net8.0\s1.AssemblyInfoInputs.cache
+E:\Facultate\An2Sem2\PAW\lucru\s1\obj\Debug\net8.0\s1.AssemblyInfo.cs
+E:\Facultate\An2Sem2\PAW\lucru\s1\obj\Debug\net8.0\s1.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\lucru\s1\obj\Debug\net8.0\s1.dll
+E:\Facultate\An2Sem2\PAW\lucru\s1\obj\Debug\net8.0\refint\s1.dll
+E:\Facultate\An2Sem2\PAW\lucru\s1\obj\Debug\net8.0\s1.pdb
+E:\Facultate\An2Sem2\PAW\lucru\s1\obj\Debug\net8.0\s1.genruntimeconfig.cache
+E:\Facultate\An2Sem2\PAW\lucru\s1\obj\Debug\net8.0\ref\s1.dll
