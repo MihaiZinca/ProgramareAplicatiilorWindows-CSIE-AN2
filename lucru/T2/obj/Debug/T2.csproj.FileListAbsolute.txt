@@ -1,0 +1,12 @@
+E:\Facultate\An2Sem2\PAW\lucru\T2\obj\Debug\T2.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\lucru\T2\obj\Debug\T2.Form1.resources
+E:\Facultate\An2Sem2\PAW\lucru\T2\obj\Debug\T2.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\lucru\T2\obj\Debug\T2.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\lucru\T2\obj\Debug\T2.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\lucru\T2\bin\Debug\T2.exe.config
+E:\Facultate\An2Sem2\PAW\lucru\T2\bin\Debug\T2.exe
+E:\Facultate\An2Sem2\PAW\lucru\T2\bin\Debug\T2.pdb
+E:\Facultate\An2Sem2\PAW\lucru\T2\obj\Debug\T2.exe
+E:\Facultate\An2Sem2\PAW\lucru\T2\obj\Debug\T2.pdb
+E:\Facultate\An2Sem2\PAW\lucru\T2\obj\Debug\T2.exe.config
+E:\Facultate\An2Sem2\PAW\lucru\T2\obj\Debug\T2.FormAdaugaCarte.resources
