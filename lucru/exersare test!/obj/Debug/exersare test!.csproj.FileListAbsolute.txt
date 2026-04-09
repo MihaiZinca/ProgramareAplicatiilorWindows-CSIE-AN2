@@ -1,0 +1,12 @@
+E:\Facultate\An2Sem2\PAW\lucru\exersare test!\bin\Debug\exersare test!.exe.config
+E:\Facultate\An2Sem2\PAW\lucru\exersare test!\bin\Debug\exersare test!.exe
+E:\Facultate\An2Sem2\PAW\lucru\exersare test!\bin\Debug\exersare test!.pdb
+E:\Facultate\An2Sem2\PAW\lucru\exersare test!\obj\Debug\exersare test!.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\lucru\exersare test!\obj\Debug\exersare_test_.AdaugareCamera.resources
+E:\Facultate\An2Sem2\PAW\lucru\exersare test!\obj\Debug\exersare_test_.Form1.resources
+E:\Facultate\An2Sem2\PAW\lucru\exersare test!\obj\Debug\exersare_test_.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\lucru\exersare test!\obj\Debug\exersare test!.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\lucru\exersare test!\obj\Debug\exersare test!.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\lucru\exersare test!\obj\Debug\exersare test!.exe
+E:\Facultate\An2Sem2\PAW\lucru\exersare test!\obj\Debug\exersare test!.pdb
+E:\Facultate\An2Sem2\PAW\lucru\exersare test!\obj\Debug\exersare test!.exe.config
