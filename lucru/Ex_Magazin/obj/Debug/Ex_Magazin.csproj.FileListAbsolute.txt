@@ -1,0 +1,11 @@
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Magazin\bin\Debug\Ex_Magazin.exe.config
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Magazin\bin\Debug\Ex_Magazin.exe
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Magazin\bin\Debug\Ex_Magazin.pdb
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Magazin\obj\Debug\Ex_Magazin.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Magazin\obj\Debug\Ex_Magazin.tbTotal.resources
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Magazin\obj\Debug\Ex_Magazin.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Magazin\obj\Debug\Ex_Magazin.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Magazin\obj\Debug\Ex_Magazin.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Magazin\obj\Debug\Ex_Magazin.exe
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Magazin\obj\Debug\Ex_Magazin.pdb
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Magazin\obj\Debug\Ex_Magazin.exe.config
