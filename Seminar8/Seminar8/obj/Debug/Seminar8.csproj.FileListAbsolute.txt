@@ -1,0 +1,10 @@
+C:\Facultate\An2_Sem2\PAW\Seminar8\Seminar8\bin\Debug\Seminar8.exe.config
+C:\Facultate\An2_Sem2\PAW\Seminar8\Seminar8\bin\Debug\Seminar8.exe
+C:\Facultate\An2_Sem2\PAW\Seminar8\Seminar8\bin\Debug\Seminar8.pdb
+C:\Facultate\An2_Sem2\PAW\Seminar8\Seminar8\obj\Debug\Seminar8.csproj.AssemblyReference.cache
+C:\Facultate\An2_Sem2\PAW\Seminar8\Seminar8\obj\Debug\Seminar8.Form1.resources
+C:\Facultate\An2_Sem2\PAW\Seminar8\Seminar8\obj\Debug\Seminar8.Properties.Resources.resources
+C:\Facultate\An2_Sem2\PAW\Seminar8\Seminar8\obj\Debug\Seminar8.csproj.GenerateResource.cache
+C:\Facultate\An2_Sem2\PAW\Seminar8\Seminar8\obj\Debug\Seminar8.csproj.CoreCompileInputs.cache
+C:\Facultate\An2_Sem2\PAW\Seminar8\Seminar8\obj\Debug\Seminar8.exe
+C:\Facultate\An2_Sem2\PAW\Seminar8\Seminar8\obj\Debug\Seminar8.pdb
