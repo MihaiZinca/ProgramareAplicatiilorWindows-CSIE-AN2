@@ -1,0 +1,11 @@
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Farmacie\bin\Debug\Ex_Farmacie.exe.config
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Farmacie\bin\Debug\Ex_Farmacie.exe
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Farmacie\bin\Debug\Ex_Farmacie.pdb
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Farmacie\obj\Debug\Ex_Farmacie.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Farmacie\obj\Debug\Ex_Farmacie.Form1.resources
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Farmacie\obj\Debug\Ex_Farmacie.FormMedicamente.resources
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Farmacie\obj\Debug\Ex_Farmacie.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Farmacie\obj\Debug\Ex_Farmacie.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Farmacie\obj\Debug\Ex_Farmacie.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Farmacie\obj\Debug\Ex_Farmacie.exe
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Farmacie\obj\Debug\Ex_Farmacie.pdb
