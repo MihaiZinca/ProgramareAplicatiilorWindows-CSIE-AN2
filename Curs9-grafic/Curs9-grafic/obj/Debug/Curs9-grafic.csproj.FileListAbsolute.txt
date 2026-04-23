@@ -1,0 +1,10 @@
+C:\Facultate\An2_Sem2\PAW\Curs9-grafic\Curs9-grafic\bin\Debug\Curs9-grafic.exe.config
+C:\Facultate\An2_Sem2\PAW\Curs9-grafic\Curs9-grafic\bin\Debug\Curs9-grafic.exe
+C:\Facultate\An2_Sem2\PAW\Curs9-grafic\Curs9-grafic\bin\Debug\Curs9-grafic.pdb
+C:\Facultate\An2_Sem2\PAW\Curs9-grafic\Curs9-grafic\obj\Debug\Curs9-grafic.csproj.AssemblyReference.cache
+C:\Facultate\An2_Sem2\PAW\Curs9-grafic\Curs9-grafic\obj\Debug\Curs9_grafic.Form1.resources
+C:\Facultate\An2_Sem2\PAW\Curs9-grafic\Curs9-grafic\obj\Debug\Curs9_grafic.Properties.Resources.resources
+C:\Facultate\An2_Sem2\PAW\Curs9-grafic\Curs9-grafic\obj\Debug\Curs9-grafic.csproj.GenerateResource.cache
+C:\Facultate\An2_Sem2\PAW\Curs9-grafic\Curs9-grafic\obj\Debug\Curs9-grafic.csproj.CoreCompileInputs.cache
+C:\Facultate\An2_Sem2\PAW\Curs9-grafic\Curs9-grafic\obj\Debug\Curs9-grafic.exe
+C:\Facultate\An2_Sem2\PAW\Curs9-grafic\Curs9-grafic\obj\Debug\Curs9-grafic.pdb
