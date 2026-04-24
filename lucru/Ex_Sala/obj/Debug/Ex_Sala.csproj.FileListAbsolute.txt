@@ -1,0 +1,11 @@
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Sala\bin\Debug\Ex_Sala.exe.config
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Sala\bin\Debug\Ex_Sala.exe
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Sala\bin\Debug\Ex_Sala.pdb
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Sala\obj\Debug\Ex_Sala.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Sala\obj\Debug\Ex_Sala.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Sala\obj\Debug\Ex_Sala.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Sala\obj\Debug\Ex_Sala.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Sala\obj\Debug\Ex_Sala.exe
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Sala\obj\Debug\Ex_Sala.pdb
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Sala\obj\Debug\Ex_Sala.exe.config
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Sala\obj\Debug\Ex_Sala.t.resources
