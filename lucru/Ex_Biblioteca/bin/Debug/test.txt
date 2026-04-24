@@ -1,0 +1,1 @@
+Id_Imprumut 1 -(System.Collections.Generic.List`1[Ex_Biblioteca.Carte]) - (a) - 2 -6

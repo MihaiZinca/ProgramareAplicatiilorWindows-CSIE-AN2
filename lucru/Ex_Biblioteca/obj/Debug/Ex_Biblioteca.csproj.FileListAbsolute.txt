@@ -1,0 +1,11 @@
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Biblioteca\bin\Debug\Ex_Biblioteca.exe.config
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Biblioteca\bin\Debug\Ex_Biblioteca.exe
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Biblioteca\bin\Debug\Ex_Biblioteca.pdb
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Biblioteca\obj\Debug\Ex_Biblioteca.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Biblioteca\obj\Debug\Ex_Biblioteca.Form1.resources
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Biblioteca\obj\Debug\Ex_Biblioteca.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Biblioteca\obj\Debug\Ex_Biblioteca.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Biblioteca\obj\Debug\Ex_Biblioteca.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Biblioteca\obj\Debug\Ex_Biblioteca.exe
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Biblioteca\obj\Debug\Ex_Biblioteca.pdb
+E:\Facultate\An2Sem2\PAW\lucru\Ex_Biblioteca\obj\Debug\Ex_Biblioteca.exe.config
