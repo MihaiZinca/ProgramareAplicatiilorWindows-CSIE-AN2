@@ -1,0 +1,11 @@
+E:\Facultate\An2Sem2\PAW\Rep\EX2\bin\Debug\EX2.exe.config
+E:\Facultate\An2Sem2\PAW\Rep\EX2\bin\Debug\EX2.exe
+E:\Facultate\An2Sem2\PAW\Rep\EX2\bin\Debug\EX2.pdb
+E:\Facultate\An2Sem2\PAW\Rep\EX2\obj\Debug\EX2.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Rep\EX2\obj\Debug\EX2.Form1.resources
+E:\Facultate\An2Sem2\PAW\Rep\EX2\obj\Debug\EX2.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Rep\EX2\obj\Debug\EX2.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Rep\EX2\obj\Debug\EX2.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Rep\EX2\obj\Debug\EX2.exe
+E:\Facultate\An2Sem2\PAW\Rep\EX2\obj\Debug\EX2.pdb
+E:\Facultate\An2Sem2\PAW\Rep\EX2\obj\Debug\EX2.exe.config

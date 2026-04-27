@@ -1,0 +1,5 @@
+SRL
+Andrei|2|A1|50.5|50.5
+Mircea|30|A2|20.5|20.5
+Vasile|2|A3|35|35
+Valoarea totala a salariilor:786
