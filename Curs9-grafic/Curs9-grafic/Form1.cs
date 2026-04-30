@@ -25,9 +25,14 @@ namespace Curs9_grafic
 
             if (gv.Rows.Count > 3)
             {
-                listaValori = new List<int>();
-                foreach (DataGridViewRow rand in gv.Rows)
-                    if (rand.Cells[0].Value != null) listaValori.Add(int.Parse(rand.Cells[0].Value.ToString())); // am pus if ca sa evit sa mi puna celula goala(Aia de apare mereu cand adaugi)
+                //listaValori = new List<int>();
+                //foreach (DataGridViewRow rand in gv.Rows)
+                //    if (rand.Cells[0].Value != null) 
+                //        listaValori.Add(int.Parse(rand.Cells[0].Value.ToString())); // am pus if ca sa evit sa mi puna celula goala(Aia de apare mereu cand adaugi)
+
+                //echivaletente
+
+                listaValori = gv.Rows.Cast<DataGridViewRow>().Where(rand=> rand.Cells[0].Value!=null).Select(rand => int.Parse(rand.Cells[0].Value.ToString())).ToList<int>();
 
             }
             else
@@ -39,5 +44,14 @@ namespace Curs9_grafic
             
 
         }
+
+        private void gv_RowsRemoved(object sender, DataGridViewRowsRemovedEventArgs e)
+        {
+            gv_CellValueChanged(sender, null);
+
+        }
     }
 }
+//to do!!
+//sa bagam spliter container si in grid, si sa fie de tip orizontal, in partea sus lasam dgv, si in partea de jos sa ne da graf cu tituluri
+//de incercat de intengraf graful asta cu ex de la curs ala cu salariati!-curs6

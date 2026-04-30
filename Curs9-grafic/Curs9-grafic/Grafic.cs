@@ -27,6 +27,8 @@ namespace Curs9_grafic
                 Invalidate(); //ridica evenimentul OnPaint (ev OnPaint este ridicat cand am folosit control, apoi este ridicat in mod implicit cand modific size ul controlului si acum cer cand sa il ridic) -invalidate=ridica evenimentul trasare evn in fereastra gen
             }
         }
+
+
         protected override void OnPaint(PaintEventArgs e)
         {
            base.OnPaint(e);  //apleaza clasa de baza numita Control
@@ -51,7 +53,7 @@ namespace Curs9_grafic
                 float distantaBara, latimeBara, stanga;
 
                 //W=n*lb+(n+1)db --formula
-                distantaBara = canvas.Width / (4 * listaValoriGrafica.Count + 1F);
+                distantaBara = canvas.Width / (4 * listaValoriGrafica.Count + 1F);  //db=distanta bara
                 latimeBara = 3F * distantaBara;
                 for(i=0,stanga=canvas.X+distantaBara; i<listaValoriGrafica.Count;i++, stanga+=latimeBara+distantaBara)
                 {
