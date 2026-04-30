@@ -1,0 +1,12 @@
+C:\Facultate\An2_Sem2\PAW\Curs10\Curs10\bin\Debug\Curs10.exe.config
+C:\Facultate\An2_Sem2\PAW\Curs10\Curs10\bin\Debug\Curs10.exe
+C:\Facultate\An2_Sem2\PAW\Curs10\Curs10\bin\Debug\Curs10.pdb
+C:\Facultate\An2_Sem2\PAW\Curs10\Curs10\obj\Debug\Curs10-legare date.csproj.AssemblyReference.cache
+C:\Facultate\An2_Sem2\PAW\Curs10\Curs10\obj\Debug\Curs10.Properties.Resources.resources
+C:\Facultate\An2_Sem2\PAW\Curs10\Curs10\obj\Debug\Curs10-legare date.csproj.GenerateResource.cache
+C:\Facultate\An2_Sem2\PAW\Curs10\Curs10\obj\Debug\Curs10-legare date.csproj.CoreCompileInputs.cache
+C:\Facultate\An2_Sem2\PAW\Curs10\Curs10\obj\Debug\Curs10.exe
+C:\Facultate\An2_Sem2\PAW\Curs10\Curs10\obj\Debug\Curs10.pdb
+C:\Facultate\An2_Sem2\PAW\Curs10\Curs10\obj\Debug\Curs10.Form1.resources
+C:\Facultate\An2_Sem2\PAW\Curs10\Curs10\obj\Debug\Curs10.Form2.resources
+C:\Facultate\An2_Sem2\PAW\Curs10\Curs10\obj\Debug\Curs10.Modificare.resources
