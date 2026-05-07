@@ -1,0 +1,11 @@
+T:\Seminar9 -grafice\Seminar9 -grafice\bin\Debug\Seminar9 -grafice.exe.config
+T:\Seminar9 -grafice\Seminar9 -grafice\bin\Debug\Seminar9 -grafice.exe
+T:\Seminar9 -grafice\Seminar9 -grafice\bin\Debug\Seminar9 -grafice.pdb
+T:\Seminar9 -grafice\Seminar9 -grafice\obj\Debug\Seminar9 -grafice.csproj.AssemblyReference.cache
+T:\Seminar9 -grafice\Seminar9 -grafice\obj\Debug\Seminar9__grafice.Form1.resources
+T:\Seminar9 -grafice\Seminar9 -grafice\obj\Debug\Seminar9__grafice.Properties.Resources.resources
+T:\Seminar9 -grafice\Seminar9 -grafice\obj\Debug\Seminar9 -grafice.csproj.GenerateResource.cache
+T:\Seminar9 -grafice\Seminar9 -grafice\obj\Debug\Seminar9 -grafice.csproj.CoreCompileInputs.cache
+T:\Seminar9 -grafice\Seminar9 -grafice\obj\Debug\Seminar9 -grafice.exe
+T:\Seminar9 -grafice\Seminar9 -grafice\obj\Debug\Seminar9 -grafice.pdb
+T:\Seminar9 -grafice\Seminar9 -grafice\obj\Debug\Seminar9 -grafice.exe.config
