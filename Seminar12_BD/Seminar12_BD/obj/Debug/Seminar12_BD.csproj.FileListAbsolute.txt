@@ -1,0 +1,11 @@
+C:\Facultate\An2_Sem2\PAW\Seminar12_BD\Seminar12_BD\bin\Debug\Seminar12_BD.exe.config
+C:\Facultate\An2_Sem2\PAW\Seminar12_BD\Seminar12_BD\bin\Debug\Seminar12_BD.exe
+C:\Facultate\An2_Sem2\PAW\Seminar12_BD\Seminar12_BD\bin\Debug\Seminar12_BD.pdb
+C:\Facultate\An2_Sem2\PAW\Seminar12_BD\Seminar12_BD\obj\Debug\Seminar12_BD.csproj.AssemblyReference.cache
+C:\Facultate\An2_Sem2\PAW\Seminar12_BD\Seminar12_BD\obj\Debug\Seminar12_BD.Form1.resources
+C:\Facultate\An2_Sem2\PAW\Seminar12_BD\Seminar12_BD\obj\Debug\Seminar12_BD.Properties.Resources.resources
+C:\Facultate\An2_Sem2\PAW\Seminar12_BD\Seminar12_BD\obj\Debug\Seminar12_BD.csproj.GenerateResource.cache
+C:\Facultate\An2_Sem2\PAW\Seminar12_BD\Seminar12_BD\obj\Debug\Seminar12_BD.csproj.CoreCompileInputs.cache
+C:\Facultate\An2_Sem2\PAW\Seminar12_BD\Seminar12_BD\obj\Debug\Seminar12_BD.exe
+C:\Facultate\An2_Sem2\PAW\Seminar12_BD\Seminar12_BD\obj\Debug\Seminar12_BD.pdb
+C:\Facultate\An2_Sem2\PAW\Seminar12_BD\Seminar12_BD\obj\Debug\Seminar12_BD.FormularStudent.resources
