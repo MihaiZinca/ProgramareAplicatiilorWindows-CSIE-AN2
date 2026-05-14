@@ -1,0 +1,11 @@
+C:\Facultate\An2_Sem2\PAW\Curs12_App_MDI\Curs12_App_MDI\bin\Debug\Curs12_App_MDI.exe.config
+C:\Facultate\An2_Sem2\PAW\Curs12_App_MDI\Curs12_App_MDI\bin\Debug\Curs12_App_MDI.exe
+C:\Facultate\An2_Sem2\PAW\Curs12_App_MDI\Curs12_App_MDI\bin\Debug\Curs12_App_MDI.pdb
+C:\Facultate\An2_Sem2\PAW\Curs12_App_MDI\Curs12_App_MDI\obj\Debug\Curs12_App_MDI.csproj.AssemblyReference.cache
+C:\Facultate\An2_Sem2\PAW\Curs12_App_MDI\Curs12_App_MDI\obj\Debug\Curs12_App_MDI.Form1.resources
+C:\Facultate\An2_Sem2\PAW\Curs12_App_MDI\Curs12_App_MDI\obj\Debug\Curs12_App_MDI.Form2.resources
+C:\Facultate\An2_Sem2\PAW\Curs12_App_MDI\Curs12_App_MDI\obj\Debug\Curs12_App_MDI.Properties.Resources.resources
+C:\Facultate\An2_Sem2\PAW\Curs12_App_MDI\Curs12_App_MDI\obj\Debug\Curs12_App_MDI.csproj.GenerateResource.cache
+C:\Facultate\An2_Sem2\PAW\Curs12_App_MDI\Curs12_App_MDI\obj\Debug\Curs12_App_MDI.csproj.CoreCompileInputs.cache
+C:\Facultate\An2_Sem2\PAW\Curs12_App_MDI\Curs12_App_MDI\obj\Debug\Curs12_App_MDI.exe
+C:\Facultate\An2_Sem2\PAW\Curs12_App_MDI\Curs12_App_MDI\obj\Debug\Curs12_App_MDI.pdb
