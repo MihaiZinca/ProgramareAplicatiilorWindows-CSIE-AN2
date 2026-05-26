@@ -1,0 +1,12 @@
+E:\Facultate\An2Sem2\PAW\Seminar13_DataBinding\bin\Debug\Seminar13_DataBinding.exe.config
+E:\Facultate\An2Sem2\PAW\Seminar13_DataBinding\bin\Debug\Seminar13_DataBinding.exe
+E:\Facultate\An2Sem2\PAW\Seminar13_DataBinding\bin\Debug\Seminar13_DataBinding.pdb
+E:\Facultate\An2Sem2\PAW\Seminar13_DataBinding\obj\Debug\Seminar13_DataBinding.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Seminar13_DataBinding\obj\Debug\Seminar13_DataBinding.Form1.resources
+E:\Facultate\An2Sem2\PAW\Seminar13_DataBinding\obj\Debug\Seminar13_DataBinding.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Seminar13_DataBinding\obj\Debug\Seminar13_DataBinding.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Seminar13_DataBinding\obj\Debug\Seminar13_DataBinding.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Seminar13_DataBinding\obj\Debug\Seminar13_DataBinding.exe
+E:\Facultate\An2Sem2\PAW\Seminar13_DataBinding\obj\Debug\Seminar13_DataBinding.pdb
+E:\Facultate\An2Sem2\PAW\Seminar13_DataBinding\obj\Debug\Seminar13_DataBinding.Form2.resources
+E:\Facultate\An2Sem2\PAW\Seminar13_DataBinding\obj\Debug\Seminar13_DataBinding.exe.config
