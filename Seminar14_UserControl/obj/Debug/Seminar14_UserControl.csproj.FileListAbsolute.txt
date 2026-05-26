@@ -1,0 +1,12 @@
+E:\Facultate\An2Sem2\PAW\Seminar14_UserControl\bin\Debug\Seminar14_UserControl.exe.config
+E:\Facultate\An2Sem2\PAW\Seminar14_UserControl\bin\Debug\Seminar14_UserControl.exe
+E:\Facultate\An2Sem2\PAW\Seminar14_UserControl\bin\Debug\Seminar14_UserControl.pdb
+E:\Facultate\An2Sem2\PAW\Seminar14_UserControl\obj\Debug\Seminar14_UserControl.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Seminar14_UserControl\obj\Debug\Seminar14_UserControl.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Seminar14_UserControl\obj\Debug\Seminar14_UserControl.UserControl1.resources
+E:\Facultate\An2Sem2\PAW\Seminar14_UserControl\obj\Debug\Seminar14_UserControl.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Seminar14_UserControl\obj\Debug\Seminar14_UserControl.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Seminar14_UserControl\obj\Debug\Seminar14_UserControl.exe
+E:\Facultate\An2Sem2\PAW\Seminar14_UserControl\obj\Debug\Seminar14_UserControl.pdb
+E:\Facultate\An2Sem2\PAW\Seminar14_UserControl\obj\Debug\Seminar14_UserControl.exe.config
+E:\Facultate\An2Sem2\PAW\Seminar14_UserControl\obj\Debug\Seminar14_UserControl.Form1.resources
