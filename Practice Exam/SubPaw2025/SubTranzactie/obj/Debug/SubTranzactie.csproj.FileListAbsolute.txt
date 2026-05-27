@@ -1,0 +1,13 @@
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\SubTranzactie\bin\Debug\SubTranzactie.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\SubTranzactie\bin\Debug\SubTranzactie.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\SubTranzactie\bin\Debug\SubTranzactie.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\SubTranzactie\obj\Debug\SubTranzactie.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\SubTranzactie\obj\Debug\SubTranzactie.Form1.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\SubTranzactie\obj\Debug\SubTranzactie.FormExtras.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\SubTranzactie\obj\Debug\SubTranzactie.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\SubTranzactie\obj\Debug\SubTranzactie.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\SubTranzactie\obj\Debug\SubTranzactie.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\SubTranzactie\obj\Debug\SubTranzactie.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\SubTranzactie\obj\Debug\SubTranzactie.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\SubTranzactie\obj\Debug\SubTranzactie.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\SubTranzactie\obj\Debug\SubTranzactie.FormDB.resources

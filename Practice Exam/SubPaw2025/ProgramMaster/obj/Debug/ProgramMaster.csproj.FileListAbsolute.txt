@@ -1,0 +1,13 @@
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ProgramMaster\bin\Debug\ProgramMaster.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ProgramMaster\bin\Debug\ProgramMaster.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ProgramMaster\bin\Debug\ProgramMaster.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ProgramMaster\obj\Debug\ProgramMaster.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ProgramMaster\obj\Debug\ProgramMaster.Form1.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ProgramMaster\obj\Debug\ProgramMaster.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ProgramMaster\obj\Debug\ProgramMaster.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ProgramMaster\obj\Debug\ProgramMaster.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ProgramMaster\obj\Debug\ProgramMaster.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ProgramMaster\obj\Debug\ProgramMaster.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ProgramMaster\obj\Debug\ProgramMaster.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ProgramMaster\obj\Debug\ProgramMaster.FormCandidat.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ProgramMaster\obj\Debug\ProgramMaster.FormGrafic.resources

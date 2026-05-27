@@ -1,0 +1,5 @@
+10,Informatica Aplicata,25,15
+20,Securitate Cibernetica,20,10
+30,Baze de Date,30,20
+40,Inginerie Software,15,25
+50,Inteligenta Artificiala,10,10

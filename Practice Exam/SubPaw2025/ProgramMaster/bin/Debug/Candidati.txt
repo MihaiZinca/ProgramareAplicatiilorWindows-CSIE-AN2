@@ -1,0 +1,5 @@
+1,Popescu Ion,9.50,10;20
+2,Ionescu Maria,8.75,30
+3,Dumitru Andrei,7.20,10;40;50
+4,Stan Vasile,9.90,50
+5,Radu Elena,8.10,20;30
