@@ -1,0 +1,5 @@
+1,Popescu Ion,101,45
+2,Ionescu Maria,101,20
+3,Dumitru Andrei,102,60
+4,Stan Vasile,103,30
+5,Radu Elena,104,15

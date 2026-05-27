@@ -1,0 +1,5 @@
+101,Universitate,120
+102,Romana,340
+103,Unirii,80
+104,Victoriei,210
+105,Aviatorilor,150
