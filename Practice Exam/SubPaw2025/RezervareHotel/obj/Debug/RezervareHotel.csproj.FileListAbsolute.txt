@@ -1,0 +1,13 @@
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\RezervareHotel\bin\Debug\RezervareHotel.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\RezervareHotel\bin\Debug\RezervareHotel.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\RezervareHotel\bin\Debug\RezervareHotel.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\RezervareHotel\obj\Debug\RezervareHotel.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\RezervareHotel\obj\Debug\RezervareHotel.FormHotel.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\RezervareHotel\obj\Debug\RezervareHotel.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\RezervareHotel\obj\Debug\RezervareHotel.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\RezervareHotel\obj\Debug\RezervareHotel.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\RezervareHotel\obj\Debug\RezervareHotel.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\RezervareHotel\obj\Debug\RezervareHotel.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\RezervareHotel\obj\Debug\RezervareHotel.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\RezervareHotel\obj\Debug\RezervareHotel.Form1.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\RezervareHotel\obj\Debug\RezervareHotel.FormDB.resources
