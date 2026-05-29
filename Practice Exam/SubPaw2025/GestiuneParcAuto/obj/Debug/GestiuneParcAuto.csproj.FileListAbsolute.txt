@@ -1,0 +1,12 @@
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestiuneParcAuto\bin\Debug\GestiuneParcAuto.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestiuneParcAuto\bin\Debug\GestiuneParcAuto.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestiuneParcAuto\bin\Debug\GestiuneParcAuto.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestiuneParcAuto\obj\Debug\GestiuneParcAuto.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestiuneParcAuto\obj\Debug\GestiuneParcAuto.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestiuneParcAuto\obj\Debug\GestiuneParcAuto.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestiuneParcAuto\obj\Debug\GestiuneParcAuto.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestiuneParcAuto\obj\Debug\GestiuneParcAuto.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestiuneParcAuto\obj\Debug\GestiuneParcAuto.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestiuneParcAuto\obj\Debug\GestiuneParcAuto.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestiuneParcAuto\obj\Debug\GestiuneParcAuto.Form1.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestiuneParcAuto\obj\Debug\GestiuneParcAuto.FormGrafic.resources
