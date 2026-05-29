@@ -1,0 +1,13 @@
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ComenziPizza\bin\Debug\ComenziPizza.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ComenziPizza\bin\Debug\ComenziPizza.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ComenziPizza\bin\Debug\ComenziPizza.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ComenziPizza\obj\Debug\ComenziPizza.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ComenziPizza\obj\Debug\ComenziPizza.Form1.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ComenziPizza\obj\Debug\ComenziPizza.FormComanda.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ComenziPizza\obj\Debug\ComenziPizza.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ComenziPizza\obj\Debug\ComenziPizza.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ComenziPizza\obj\Debug\ComenziPizza.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ComenziPizza\obj\Debug\ComenziPizza.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ComenziPizza\obj\Debug\ComenziPizza.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ComenziPizza\obj\Debug\ComenziPizza.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ComenziPizza\obj\Debug\ComenziPizza.FormDB.resources
