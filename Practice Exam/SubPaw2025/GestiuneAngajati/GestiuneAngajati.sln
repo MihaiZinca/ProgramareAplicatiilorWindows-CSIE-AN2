@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37301.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestiuneAngajati", "GestiuneAngajati.csproj", "{CFEFEBBD-DDA9-48A5-B29A-2622FC4329CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFEFEBBD-DDA9-48A5-B29A-2622FC4329CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEFEBBD-DDA9-48A5-B29A-2622FC4329CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEFEBBD-DDA9-48A5-B29A-2622FC4329CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEFEBBD-DDA9-48A5-B29A-2622FC4329CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {142CE8C7-F144-439D-89C4-A7AD5D2311FF}
+	EndGlobalSection
+EndGlobal
