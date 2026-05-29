@@ -1,0 +1,13 @@
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\CosCumparaturi\bin\Debug\CosCumparaturi.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\CosCumparaturi\bin\Debug\CosCumparaturi.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\CosCumparaturi\bin\Debug\CosCumparaturi.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\CosCumparaturi\obj\Debug\CosCumparaturi.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\CosCumparaturi\obj\Debug\CosCumparaturi.Form1.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\CosCumparaturi\obj\Debug\CosCumparaturi.FormProdus.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\CosCumparaturi\obj\Debug\CosCumparaturi.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\CosCumparaturi\obj\Debug\CosCumparaturi.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\CosCumparaturi\obj\Debug\CosCumparaturi.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\CosCumparaturi\obj\Debug\CosCumparaturi.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\CosCumparaturi\obj\Debug\CosCumparaturi.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\CosCumparaturi\obj\Debug\CosCumparaturi.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\CosCumparaturi\obj\Debug\CosCumparaturi.FormEditare.resources
