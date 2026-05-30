@@ -1,0 +1,13 @@
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Bibliografice\obj\Debug\Bibliografice.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Bibliografice\obj\Debug\Bibliografice.Form1.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Bibliografice\obj\Debug\Bibliografice.FormCarte.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Bibliografice\obj\Debug\Bibliografice.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Bibliografice\obj\Debug\Bibliografice.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Bibliografice\obj\Debug\Bibliografice.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Bibliografice\bin\Debug\Bibliografice.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Bibliografice\bin\Debug\Bibliografice.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Bibliografice\bin\Debug\Bibliografice.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Bibliografice\obj\Debug\Bibliografice.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Bibliografice\obj\Debug\Bibliografice.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Bibliografice\obj\Debug\Bibliografice.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Bibliografice\obj\Debug\Bibliografice.FormDB.resources
