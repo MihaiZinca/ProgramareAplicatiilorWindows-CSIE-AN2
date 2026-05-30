@@ -1,0 +1,13 @@
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestionareCredite\bin\Debug\GestionareCredite.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestionareCredite\bin\Debug\GestionareCredite.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestionareCredite\bin\Debug\GestionareCredite.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestionareCredite\obj\Debug\GestionareCredite.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestionareCredite\obj\Debug\GestionareCredite.Form1.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestionareCredite\obj\Debug\GestionareCredite.FormCredite.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestionareCredite\obj\Debug\GestionareCredite.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestionareCredite\obj\Debug\GestionareCredite.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestionareCredite\obj\Debug\GestionareCredite.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestionareCredite\obj\Debug\GestionareCredite.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestionareCredite\obj\Debug\GestionareCredite.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestionareCredite\obj\Debug\GestionareCredite.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GestionareCredite\obj\Debug\GestionareCredite.FormEditare.resources
