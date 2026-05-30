@@ -1,0 +1,14 @@
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GesiuneFacultati\bin\Debug\GesiuneFacultati.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GesiuneFacultati\bin\Debug\GesiuneFacultati.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GesiuneFacultati\bin\Debug\GesiuneFacultati.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GesiuneFacultati\obj\Debug\GesiuneFacultati.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GesiuneFacultati\obj\Debug\GesiuneFacultati.Form1.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GesiuneFacultati\obj\Debug\GesiuneFacultati.FormAdaugare.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GesiuneFacultati\obj\Debug\GesiuneFacultati.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GesiuneFacultati\obj\Debug\GesiuneFacultati.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GesiuneFacultati\obj\Debug\GesiuneFacultati.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GesiuneFacultati\obj\Debug\GesiuneFacultati.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GesiuneFacultati\obj\Debug\GesiuneFacultati.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GesiuneFacultati\obj\Debug\GesiuneFacultati.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GesiuneFacultati\obj\Debug\GesiuneFacultati.FormModificare.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\GesiuneFacultati\obj\Debug\GesiuneFacultati.FormDB.resources

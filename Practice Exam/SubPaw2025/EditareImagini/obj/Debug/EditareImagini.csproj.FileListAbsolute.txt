@@ -1,0 +1,13 @@
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\EditareImagini\bin\Debug\EditareImagini.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\EditareImagini\bin\Debug\EditareImagini.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\EditareImagini\bin\Debug\EditareImagini.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\EditareImagini\obj\Debug\EditareImagini.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\EditareImagini\obj\Debug\EditareImagini.Form1.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\EditareImagini\obj\Debug\EditareImagini.FromPoligon.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\EditareImagini\obj\Debug\EditareImagini.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\EditareImagini\obj\Debug\EditareImagini.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\EditareImagini\obj\Debug\EditareImagini.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\EditareImagini\obj\Debug\EditareImagini.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\EditareImagini\obj\Debug\EditareImagini.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\EditareImagini\obj\Debug\EditareImagini.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\EditareImagini\obj\Debug\EditareImagini.FormGrafic.resources
