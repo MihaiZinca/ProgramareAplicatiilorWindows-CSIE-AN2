@@ -1,0 +1,12 @@
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ActivitatiImobiliare\bin\Debug\ActivitatiImobiliare.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ActivitatiImobiliare\bin\Debug\ActivitatiImobiliare.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ActivitatiImobiliare\bin\Debug\ActivitatiImobiliare.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ActivitatiImobiliare\obj\Debug\ActivitatiImobiliare.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ActivitatiImobiliare\obj\Debug\ActivitatiImobiliare.Form1.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ActivitatiImobiliare\obj\Debug\ActivitatiImobiliare.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ActivitatiImobiliare\obj\Debug\ActivitatiImobiliare.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ActivitatiImobiliare\obj\Debug\ActivitatiImobiliare.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ActivitatiImobiliare\obj\Debug\ActivitatiImobiliare.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ActivitatiImobiliare\obj\Debug\ActivitatiImobiliare.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ActivitatiImobiliare\obj\Debug\ActivitatiImobiliare.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\ActivitatiImobiliare\obj\Debug\ActivitatiImobiliare.FormGrafic.resources
