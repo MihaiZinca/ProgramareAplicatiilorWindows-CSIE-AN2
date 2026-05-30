@@ -1,0 +1,12 @@
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\AcessPack\bin\Debug\AcessPack.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\AcessPack\bin\Debug\AcessPack.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\AcessPack\bin\Debug\AcessPack.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\AcessPack\obj\Debug\AcessPack.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\AcessPack\obj\Debug\AcessPack.Form1.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\AcessPack\obj\Debug\AcessPack.Form.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\AcessPack\obj\Debug\AcessPack.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\AcessPack\obj\Debug\AcessPack.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\AcessPack\obj\Debug\AcessPack.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\AcessPack\obj\Debug\AcessPack.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\AcessPack\obj\Debug\AcessPack.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\AcessPack\obj\Debug\AcessPack.exe.config
