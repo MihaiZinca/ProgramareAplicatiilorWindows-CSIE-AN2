@@ -1,0 +1,13 @@
+E:\Facultate\An2Sem2\PAW\Practice Exam\Repetare\GestiuneAngajatiFirma\bin\Debug\GestiuneAngajatiFirma.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\Repetare\GestiuneAngajatiFirma\bin\Debug\GestiuneAngajatiFirma.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\Repetare\GestiuneAngajatiFirma\bin\Debug\GestiuneAngajatiFirma.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\Repetare\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\Repetare\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.Form1.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\Repetare\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.FormAdaugare.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\Repetare\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\Repetare\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\Repetare\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\Repetare\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\Repetare\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\Repetare\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\Repetare\GestiuneAngajatiFirma\obj\Debug\GestiuneAngajatiFirma.FormModificare.resources
