@@ -1,0 +1,12 @@
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Traseu\bin\Debug\Traseu.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Traseu\bin\Debug\Traseu.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Traseu\bin\Debug\Traseu.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Traseu\obj\Debug\Traseu.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Traseu\obj\Debug\Traseu.Form1.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Traseu\obj\Debug\Traseu.FormLocatie.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Traseu\obj\Debug\Traseu.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Traseu\obj\Debug\Traseu.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Traseu\obj\Debug\Traseu.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Traseu\obj\Debug\Traseu.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Traseu\obj\Debug\Traseu.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\SubPaw2025\Traseu\obj\Debug\Traseu.exe.config
