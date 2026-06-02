@@ -1,0 +1,11 @@
+E:\Facultate\An2Sem2\PAW\Practice Exam\rep\Sub4\bin\Debug\Sub4.exe.config
+E:\Facultate\An2Sem2\PAW\Practice Exam\rep\Sub4\bin\Debug\Sub4.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\rep\Sub4\bin\Debug\Sub4.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\rep\Sub4\obj\Debug\Sub4.csproj.AssemblyReference.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\rep\Sub4\obj\Debug\Sub4.Form1.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\rep\Sub4\obj\Debug\Sub4.Properties.Resources.resources
+E:\Facultate\An2Sem2\PAW\Practice Exam\rep\Sub4\obj\Debug\Sub4.csproj.GenerateResource.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\rep\Sub4\obj\Debug\Sub4.csproj.CoreCompileInputs.cache
+E:\Facultate\An2Sem2\PAW\Practice Exam\rep\Sub4\obj\Debug\Sub4.exe
+E:\Facultate\An2Sem2\PAW\Practice Exam\rep\Sub4\obj\Debug\Sub4.pdb
+E:\Facultate\An2Sem2\PAW\Practice Exam\rep\Sub4\obj\Debug\Sub4.exe.config
